@@ -6,5 +6,4 @@ FEATURES: <br/>
 * Volume envelope
 * Variable filter (with variable cutoff and resonacne)
 * Overall gain slider
-<br/>
 ![alt text](./mySynth.PNG)
