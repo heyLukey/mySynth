@@ -1,2 +1,2 @@
 # mySynth
-![alt text](./mySynth.png)
+![alt text](./mySynth.PNG)
