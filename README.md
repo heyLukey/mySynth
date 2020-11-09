@@ -1,5 +1,7 @@
 # mySynth
-Synth made using JUCE framework
+Synth made using JUCE framework <br/>
+
+![alt text](./mySynth.PNG)
 
 FEATURES: <br/>
 * Two Oscillators (each with mix and variable waveform)
@@ -7,4 +9,4 @@ FEATURES: <br/>
 * Variable filter (with variable cutoff and resonacne)
 * Overall gain slider 
 <br/>
-![alt text](./mySynth.PNG)
+
